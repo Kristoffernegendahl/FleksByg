@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2021-11-25T10:56:03.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="FGHFkSz446-XQyv6XmZ4" version="15.7.4" type="github">
+  <diagram name="Page-1" id="3e8102d1-ef87-2e61-34e1-82d9a586fe2e">
+    <mxGraphModel dx="2081" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="70666756c84bb93c-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="120" width="500" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-13" value="Environmental&lt;div&gt;Awareness&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-231.95" y="130" width="483.9" height="504.06" as="geometry" />
+        </mxCell>
+        <mxCell id="70666756c84bb93c-5" value="Designteamet og&lt;br&gt;Projekteringen" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="121" y="490" width="46" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevareproducenten&lt;/font&gt;" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-13.5" y="90" width="57" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Leverendøren&lt;/font&gt;" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="140" y="189" width="99" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-8" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevaren&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="60" y="203" width="47" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-9" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Kvalitetskontrol&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.lab;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-168" y="130" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-15" value="Byggevareforhandleren" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="226" y="355" width="44" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Bygningen&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.home;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-74.5" y="530" width="61" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Nedriveren&lt;/font&gt;" style="shape=mxgraph.signs.transportation.truck_1;html=1;pointerEvents=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-280" y="400" width="99" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-25" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.maintenance;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="-231.95" y="273" width="20.89" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-26" value="Forarbejdning" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;fontSize=16;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-253" y="256.5" width="63" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-30" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevare&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-156.6" y="337.05999999999995" width="47" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-28" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevaren&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="121" y="319.5" width="47" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-29" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevare&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;labelBackgroundColor=default;" parent="1" vertex="1">
+          <mxGeometry x="43.5" y="460" width="47" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="NX3kP4LZ0dh-7WgNivBp-32" value="Resource" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-118" y="236" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-1" value="&lt;span style=&quot;font-size: 16px&quot;&gt;Kvalitetskontrol&lt;/span&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.lab;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-181" y="490" width="47" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Byggevare&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.firewall;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="439.99999999999994" width="47" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="236" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-103.5" y="223.5" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-5" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-147" y="236" width="26" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YHJI_16dnGBZ-90retBK-6" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontSize=16;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="223.5" width="26" height="10" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
