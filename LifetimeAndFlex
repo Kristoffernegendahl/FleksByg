@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T18:57:44.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LpGagjzeqXk-CqmUhKa_" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T19:22:27.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MDvXPy0dOAuUFL7w-98I" version="20.8.20" type="github">
   <diagram name="Page-1" id="m2U7VJPG1SgEbwYhUs1G">
-    <mxGraphModel dx="1509" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1247" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -772,6 +772,36 @@
               <mxPoint x="1090" y="238" />
               <mxPoint x="1110" y="228" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-214" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="60" as="sourcePoint" />
+            <mxPoint x="241" y="-200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-215" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="701" y="50" as="sourcePoint" />
+            <mxPoint x="231" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-220" value="Ekstra kapacitet indbygget ved opførelsen Miljøpåvirkninger (f.eks. CO2 ækv)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="315" y="62" width="335" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-222" value="Ekstra levetid grundet fleksibiltet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="98" y="-100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-231" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;gradientDirection=east;rotation=120;fillColor=#FFFFFF;gradientColor=#7ea6e0;strokeColor=none;opacity=70;" vertex="1" parent="1">
+          <mxGeometry x="138.76689565064987" y="-363.944343031759" width="406" height="474.39" as="geometry" />
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-232" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=16;gradientDirection=east;rotation=-210;fillColor=#FFFFFF;gradientColor=#7ea6e0;strokeColor=none;opacity=70;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="211.78" y="-284.78" width="404.27" height="464.22" as="geometry" />
+        </mxCell>
+        <mxCell id="bwUeGnsc71Z4OB8GlddK-233" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 1;strokeWidth=2;fontFamily=Helvetica;fontSize=16;entryX=0.526;entryY=0.262;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.367;exitY=0.501;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bwUeGnsc71Z4OB8GlddK-232" target="bwUeGnsc71Z4OB8GlddK-232">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="-60" as="sourcePoint" />
+            <mxPoint x="460" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
