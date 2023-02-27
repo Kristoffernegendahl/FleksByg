@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T13:08:02.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="BF1j5PCs0UsWP_jwNyOs" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T13:12:45.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4pgZhriQqGiefHWOHmKB" version="20.8.23" type="github">
   <diagram name="Page-1" id="O3QIlHTEBedaoIdS_m7c">
-    <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -450,6 +450,14 @@
         </mxCell>
         <mxCell id="RdezbxoMDy9j4z05kCl0-72" value="&lt;h1 style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; face=&quot;Neo Sans Pro Light&quot;&gt;Afstand til brandtrappe maks 30 m&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Titillium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="820" y="365" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdezbxoMDy9j4z05kCl0-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;fontFamily=Titillium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium;fontSize=12;startArrow=none;startFill=0;endArrow=oval;endFill=1;" edge="1" parent="1" source="RdezbxoMDy9j4z05kCl0-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="679.9999999999998" y="279.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RdezbxoMDy9j4z05kCl0-73" value="&lt;h1 style=&quot;font-size: 12px;&quot;&gt;&lt;p style=&quot;line-height: 107%; margin-top: 0pt; margin-bottom: 8pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font face=&quot;Neo Sans Pro Light&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Energiramme svarende til lavenergiramme &amp;lt; 33 kWh m&lt;sup&gt;2&lt;/sup&gt; år&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Titillium;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DTitillium;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="830" y="220" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
